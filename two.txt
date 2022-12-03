@@ -1,1 +1,3 @@
 First time added some text on two.txt
+
+The text added for config branch 
